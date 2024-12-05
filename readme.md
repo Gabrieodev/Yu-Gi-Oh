@@ -22,6 +22,9 @@ Bem-vindo ao **Yu-Gi-Oh! Jokenpo**, um jogo interativo que combina o clássico J
 3. Veja quem venceu no painel de resultados.
 4. Divirta-se e tente vencer a máquina! 🏆
 
+## 🕹️ Jogue Agora!
+[Clique aqui para jogar o Yu-Gi-Oh! Jokenpo]()
+
 ## 🎓 Créditos
 Este projeto foi desenvolvido como parte de um desafio educacional da **Digital Innovation One**.
 
